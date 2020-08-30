@@ -1,0 +1,1 @@
+In order to get the Fonts dataset used in this project, download and unzip the file in the following Google Drive folder: https://drive.google.com/open?id=198tKvGQ7UE6kbnRCOsBuA0jox1TN-2LX
